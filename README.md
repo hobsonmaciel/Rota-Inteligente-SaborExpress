@@ -1,8 +1,8 @@
 # 🚗 Rota Inteligente: Otimização de Entregas com Algoritmos de IA
 
-**Autor:** [Seu Nome]  
+**Autor:** [robson maciel silva]  
 **Curso:** Inteligência Artificial / Ciência de Dados  
-**Instituição:** [Nome da Instituição]  
+**Instituição:** [unifecaf]  
 **Data:** Novembro/2025  
 
 ---
