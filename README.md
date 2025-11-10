@@ -80,7 +80,3 @@ Dados de clientes ou endereços reais devem ser **anonimizados** e usados apenas
 
 ---
 
-## 📎 Contato
-
-📧 **Email:** [seuemail@exemplo.com]  
-💼 **GitHub:** [https://github.com/SEU_USUARIO]  
